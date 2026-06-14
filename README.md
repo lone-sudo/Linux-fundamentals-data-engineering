@@ -53,4 +53,4 @@ A Data Engineer's First Day on a Linux Server: SSH, PostgreSQL & Everything In B
 
 ## Blog article
 
-[Link to Dev.to article](#)
+🔗 [Link to Dev.to article](https://dev.to/magichu_njoroge_9123627a6/a-data-engineers-first-day-on-a-linux-server-ssh-postgresql-everything-in-between-3032)
